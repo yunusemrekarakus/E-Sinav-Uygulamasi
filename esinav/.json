@@ -1,0 +1,8 @@
+{
+  "ConnectionSettings": {
+    "IPAdresi": "localhost",
+    "PortNumarasi": "5432",
+    "KullaniciAdi": "postgres",
+    "Parola": "1234"
+  }
+}
