@@ -226,43 +226,6 @@ Eğer sınavın tarihi geçmemişse, öğrenci sınavı çözebilir.
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-**3.2.Projenin Akış Şeması**
-
-**Şekil-1-1: Program akış şeması**
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 **4. Projenin Ekran Görüntüleri**
 
 ![image](https://github.com/yunusemrekarakus/E-Sinav-Uygulamasi/assets/124718913/3354bf35-58f7-4e37-984f-0cdcfe94e67e)
@@ -277,6 +240,9 @@ Yönetici (Müdür) Girişi: Yönetici, eğitim kurumunun yönetiminden sorumlu 
 Öğretmen Girişi: Öğretmen, sistemde dersleri ve sınavları yöneten kişidir. Öğretmenler, kullanıcı adı ve şifreleriyle sisteme giriş yapabilirler. CAPTCHA kodu da burada kullanıcı doğrulaması için bulunmaktadır.
 
 Öğrenci Girişi: Öğrenciler, sınavları çözen ve sonuçlarına erişen kullanıcılardır. Sisteme giriş yapabilmek için öğrenci numarası ve şifre bilgileri gerekmektedir. CAPTCHA kodu, öğrencilerin gerçek kullanıcılar olduğunu doğrulamak için kullanılır.
+
+![image](https://github.com/yunusemrekarakus/E-Sinav-Uygulamasi/assets/124718913/8e4504c6-62a4-4cbd-847d-5dc8f5ba6b8d)
+
 
 Bu giriş ekranı, sisteme güvenli ve yetkili erişim sağlanmasını sağlar. Kullanıcıların doğru kimlik bilgileriyle giriş yapmaları ve CAPTCHA kodunu doğru bir şekilde çözmeleri gerekmektedir. Bu önlemler, sistemde güvenliği sağlamak ve yetkisiz erişimleri engellemek amacıyla kullanılmaktadır.
 
@@ -294,17 +260,7 @@ Veritabanı Kullanıcı Adı ve Parola: E-sınav sistemi, verileri depolamak ve 
 Sunucu Ayarları Paneli, sistemin sunucuyla doğru şekilde iletişim kurmasını sağlamak için kullanılır. Doğru IP adresi, port numarası ve veritabanı kullanıcı bilgileri girilerek sunucuyla başarılı bir bağlantı sağlanır. Bu panel, sistem yöneticisinin sunucu ayarlarını kolayca yapılandırabilmesini ve gerektiğinde güncelleyebilmesini sağlar.
 
 
-
-
-
-
-
-
-
-
-
-
-
+![image](https://github.com/yunusemrekarakus/E-Sinav-Uygulamasi/assets/124718913/41c74488-e837-413a-8dc1-e7dee5bf3472)
 
 
 
@@ -316,6 +272,7 @@ Root Paneli, e-sınav sisteminde yönetici (müdür) hesabının oluşturulduğu
 
 
 
+![image](https://github.com/yunusemrekarakus/E-Sinav-Uygulamasi/assets/124718913/b25aef9c-2cae-4ca8-b651-87a68e476158)
 
 
 
@@ -334,6 +291,7 @@ Yönetici Paneli, e-sınav sisteminin yönetiminde kritik bir rol oynayan bir ar
 Öğrenci Bilgi Güncelleme: Yönetici Paneli, mevcut öğrenci bilgilerinin güncellenmesini sağlar. Yönetici, öğrencinin adı, soyadı, sınıfı gibi bilgilerini değiştirerek güncelleme işlemini gerçekleştirir. Bu sayede öğrenci bilgileri güncel tutulur ve doğru bir şekilde sisteme yansıtılır.
 
 
+![image](https://github.com/yunusemrekarakus/E-Sinav-Uygulamasi/assets/124718913/86b49eb6-96af-43ca-b4d1-f762306e479f)
 
 
 **Ekran Görüntüsü-4-5: Yönetici Menü** 
@@ -341,6 +299,7 @@ Yönetici Paneli, e-sınav sisteminin yönetiminde kritik bir rol oynayan bir ar
 
 
 
+![image](https://github.com/yunusemrekarakus/E-Sinav-Uygulamasi/assets/124718913/0cfec2e6-f3d2-4083-bfff-6bf18d1b30d2)
 
 
 
@@ -353,6 +312,7 @@ Yönetici Paneli, e-sınav sisteminin yönetiminde kritik bir rol oynayan bir ar
 
 
 
+![image](https://github.com/yunusemrekarakus/E-Sinav-Uygulamasi/assets/124718913/99030544-09f4-41a1-af5e-1377174c4390)
 
 
 
@@ -365,6 +325,7 @@ Yönetici Paneli, e-sınav sisteminin yönetiminde kritik bir rol oynayan bir ar
 
 
 
+![image](https://github.com/yunusemrekarakus/E-Sinav-Uygulamasi/assets/124718913/ac539f16-cfa0-46be-824c-66c049b2ff8e)
 
 
 
@@ -372,6 +333,8 @@ Yönetici Paneli, e-sınav sisteminin yönetiminde kritik bir rol oynayan bir ar
 
 
 **Ekran Görüntüsü-4-8: Sınıf Oluşturma Ekranı** 
+
+![image](https://github.com/yunusemrekarakus/E-Sinav-Uygulamasi/assets/124718913/5e3ae36a-c09c-4f80-8d64-38f5b76b5326)
 
 
 **Ekran Görüntüsü-4-9: Öğrenci Bilgi Güncelleme Görüntüleme Ekranı** 
@@ -381,9 +344,7 @@ Yönetici Paneli, e-sınav sisteminin yönetiminde kritik bir rol oynayan bir ar
 
 
 
-
-
-
+![image](https://github.com/yunusemrekarakus/E-Sinav-Uygulamasi/assets/124718913/f952e987-864c-4d64-addb-5e7da261b60e)
 
 
 
@@ -400,6 +361,7 @@ Geri Bildirim Gönderme: Öğretmen Paneli, öğrencilerden gelen geri bildiriml
 
 
 
+![image](https://github.com/yunusemrekarakus/E-Sinav-Uygulamasi/assets/124718913/82625be6-8011-40f1-9f69-712382fee072)
 
 
 
@@ -412,6 +374,7 @@ Geri Bildirim Gönderme: Öğretmen Paneli, öğrencilerden gelen geri bildiriml
 
 
 
+![image](https://github.com/yunusemrekarakus/E-Sinav-Uygulamasi/assets/124718913/daefb287-5c1e-4bcc-89f3-e6e9018339df)
 
 
 
@@ -425,9 +388,13 @@ Geri Bildirim Gönderme: Öğretmen Paneli, öğrencilerden gelen geri bildiriml
 
 **Ekran Görüntüsü-4-13: Sınav Oluşturma Ekranı** 
 
+![image](https://github.com/yunusemrekarakus/E-Sinav-Uygulamasi/assets/124718913/77a37b9b-1991-4a0b-b2dd-4f8ccd79ee1f)
+
 
 **Ekran Görüntüsü-4-14: Sınav Soru Ekleme Ekranı** 
 
+
+![image](https://github.com/yunusemrekarakus/E-Sinav-Uygulamasi/assets/124718913/27a35ec6-eba4-4701-9b05-ef641453c1ef)
 
 
 
@@ -438,6 +405,7 @@ Geri Bildirim Gönderme: Öğretmen Paneli, öğrencilerden gelen geri bildiriml
 
 
 
+![image](https://github.com/yunusemrekarakus/E-Sinav-Uygulamasi/assets/124718913/0b41a18a-060c-4081-a5d0-75cd84fb1f98)
 
 
 
@@ -452,6 +420,7 @@ Geri Bildirim Gönderme: Öğretmen Paneli, öğrencilerden gelen geri bildiriml
 
 
 
+![image](https://github.com/yunusemrekarakus/E-Sinav-Uygulamasi/assets/124718913/0b591bf2-a06f-4200-ba91-f1c5cd35fa04)
 
 
 
@@ -461,6 +430,10 @@ Geri Bildirim Gönderme: Öğretmen Paneli, öğrencilerden gelen geri bildiriml
 
 
 **Ekran Görüntüsü-4-17: Sınavlar Hakkındaki Geri Bildirim Görüntüleme Ekranı** 
+
+
+![image](https://github.com/yunusemrekarakus/E-Sinav-Uygulamasi/assets/124718913/87bfab0d-f390-4dc5-8a96-9adb8bd6d15c)
+
 
 
 **Ekran Görüntüsü-4-18: Öğrenci Paneli** 
@@ -475,18 +448,29 @@ Geri Bildirim Gönderme: Öğretmen Paneli, öğrencilerden gelen geri bildiriml
 **Geri Bildirim Oluşturma:** Öğrenci Paneli, öğrencilerin sınavla ilgili geri bildirim oluşturmasını sağlar. Öğrenciler, sınav sonrasında "Geri Bildirim Oluştur" bölümünde sınavla ilgili sorunları veya görüşlerini paylaşabilirler. Bu geri bildirimler, öğrencilerin sınav deneyimlerini iyileştirmek ve öğretmenlere geri bildirim sağlamak amacıyla kullanılır.
 
 
+![image](https://github.com/yunusemrekarakus/E-Sinav-Uygulamasi/assets/124718913/c9a98e74-40e7-4831-9e12-d97b9d05c6e9)
 
 
 
 **Ekran Görüntüsü-4-19: Öğrenci Menü**
 
+
+![image](https://github.com/yunusemrekarakus/E-Sinav-Uygulamasi/assets/124718913/87652461-5a3d-4e60-bdd2-ba6f1e338c8d)
+
+
 **Ekran Görüntüsü-4-20: Sınav Çözme Ekranı** 
+
+
+![image](https://github.com/yunusemrekarakus/E-Sinav-Uygulamasi/assets/124718913/e4d675ef-bb96-4e80-b794-f52b4b0b2b15)
+
 
 
 **Ekran Görüntüsü-4-21: Sınav Çözüldükten Sonra Gönderilen Not Bilgi Mail’i**
 
 
 
+
+![image](https://github.com/yunusemrekarakus/E-Sinav-Uygulamasi/assets/124718913/7777a455-a991-477c-b9f8-0f68f94547a7)
 
 
 
@@ -499,6 +483,7 @@ Geri Bildirim Gönderme: Öğretmen Paneli, öğrencilerden gelen geri bildiriml
 
 
 
+![image](https://github.com/yunusemrekarakus/E-Sinav-Uygulamasi/assets/124718913/68459d81-46d9-4986-957f-f69101efbd55)
 
 
 
@@ -517,6 +502,7 @@ Geri Bildirim Gönderme: Öğretmen Paneli, öğrencilerden gelen geri bildiriml
 
 
 
+![image](https://github.com/yunusemrekarakus/E-Sinav-Uygulamasi/assets/124718913/cb2a95f8-d2ed-46c2-8b54-a068f42c9f55)
 
 
 
@@ -533,6 +519,7 @@ Geri Bildirim Gönderme: Öğretmen Paneli, öğrencilerden gelen geri bildiriml
 
 
 
+![image](https://github.com/yunusemrekarakus/E-Sinav-Uygulamasi/assets/124718913/f153ef89-718c-4b7f-88b3-ff6677edbf04)
 
 
 
